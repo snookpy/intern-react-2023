@@ -11,7 +11,11 @@ const router = createBrowserRouter([
         children: [
             {
                 path: '/',
-                element: <ExampleDnDPage />    ,
+
+
+
+                
+                element: <ExampleDnDPage />,
             },
             {
                 path: 'form',
