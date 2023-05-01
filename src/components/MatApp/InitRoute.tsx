@@ -12,9 +12,6 @@ const router = createBrowserRouter([
             {
                 path: '/',
 
-
-
-                
                 element: <ExampleDnDPage />,
             },
             {
