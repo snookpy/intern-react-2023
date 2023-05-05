@@ -3,6 +3,7 @@ import ExampleDnDPage from '../ExampleDnDPage/ExampleDnDPage'
 import ExampleFormPage from '../ExampleFormPage/ExampleFormPage'
 
 import MatLayout from './MatLayout'
+import DemoFormPage from '../ExampleFormPage/DemoFormPage'
 
 const router = createBrowserRouter([
     {
